@@ -1,32 +1,23 @@
-# 🐍 Python Projects
+# 🐍 Python Cybersecurity Projects
 
-A collection of basic automation scripts and learning projects developed as part of my journey in Software & Network Engineering.
+A collection of cybersecurity-oriented Python tools developed during my journey in Software & Network Engineering.
+
+---
+
+## 🔐 Projects Included
+
+- 🔢 calculator.py → Basic calculator script
+- 🔑 password_checker.py → Password strength validator
+- 🌐 port_scanner.py → Simple TCP port scanner
+- 📡 packet_sniffer.py → Basic packet sniffer (educational purpose)
+- 🛡️ secure_auth_system.py → Simple authentication system simulation
+- 📊 log_analyzer.py → Log analyzer detecting brute-force attempts
+
+---
 
 ## 🎯 Objective
 
-The purpose of this repository is to:
-- Improve Python programming skills
-- Practice automation concepts
-- Explore networking and cybersecurity basics
-- Build a strong technical portfolio
+These projects are built to:
 
-## 📂 Projects Included
-
-### 🔹 Port Scanner
-A simple Python script that scans common ports on a target IP address.
-
-### 🔹 Calculator Script
-Basic arithmetic operations using Python functions.
-
-(More projects coming soon...)
-
-## 🛠 Technologies Used
-
-- Python 3
-- Standard Libraries (socket, os, etc.)
-
-## 🚀 Author
-
-Abdelwali Nebrass  
-DUT Software & Network Engineering Student  
-Future Cybersecurity Specialist
+- Strengthen my Python programming skills
+- Und
